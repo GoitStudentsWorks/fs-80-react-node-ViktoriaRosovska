@@ -12,7 +12,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Suspense fallback={<Loader />}>
-      <BrowserRouter basename="fs-80-react-node-ViktoriaRosovska">
+      <BrowserRouter basename="fs-80-react-node-viktoriarosovska">
         <Provider store={store}>
           <PersistGate persistor={persistor}>
             <App />
