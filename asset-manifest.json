@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-80-react-node-ViktoriaRosovska/static/css/main.a3bf5681.css",
-    "main.js": "/fs-80-react-node-ViktoriaRosovska/static/js/main.8bd607fc.js",
+    "main.js": "/fs-80-react-node-ViktoriaRosovska/static/js/main.f8e945e9.js",
     "static/js/255.cc3c2ee2.chunk.js": "/fs-80-react-node-ViktoriaRosovska/static/js/255.cc3c2ee2.chunk.js",
     "static/js/342.40718faf.chunk.js": "/fs-80-react-node-ViktoriaRosovska/static/js/342.40718faf.chunk.js",
     "static/js/938.8a67ec41.chunk.js": "/fs-80-react-node-ViktoriaRosovska/static/js/938.8a67ec41.chunk.js",
@@ -90,7 +90,7 @@
     "static/media/MinusForm.svg": "/fs-80-react-node-ViktoriaRosovska/static/media/MinusForm.7aa2513c040a6b5b61df80c9efc7b18d.svg",
     "static/media/plus.svg": "/fs-80-react-node-ViktoriaRosovska/static/media/plus.a42d76147973b79136673cbc84673ffb.svg",
     "main.a3bf5681.css.map": "/fs-80-react-node-ViktoriaRosovska/static/css/main.a3bf5681.css.map",
-    "main.8bd607fc.js.map": "/fs-80-react-node-ViktoriaRosovska/static/js/main.8bd607fc.js.map",
+    "main.f8e945e9.js.map": "/fs-80-react-node-ViktoriaRosovska/static/js/main.f8e945e9.js.map",
     "255.cc3c2ee2.chunk.js.map": "/fs-80-react-node-ViktoriaRosovska/static/js/255.cc3c2ee2.chunk.js.map",
     "342.40718faf.chunk.js.map": "/fs-80-react-node-ViktoriaRosovska/static/js/342.40718faf.chunk.js.map",
     "938.8a67ec41.chunk.js.map": "/fs-80-react-node-ViktoriaRosovska/static/js/938.8a67ec41.chunk.js.map",
@@ -111,6 +111,6 @@
   },
   "entrypoints": [
     "static/css/main.a3bf5681.css",
-    "static/js/main.8bd607fc.js"
+    "static/js/main.f8e945e9.js"
   ]
 }
