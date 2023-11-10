@@ -13,5 +13,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/fs-80-react-node-ViktoriaRosovska/',
+  base: '/fs-80-react-node-viktoriarosovska/',
 });
